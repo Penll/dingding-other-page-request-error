@@ -1,0 +1,4 @@
+<view>
+  this is a blank page
+  <button size="default" type="primary" onTap="onNavTest">Navigate To Test</button>
+</view>
