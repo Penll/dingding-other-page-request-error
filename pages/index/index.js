@@ -36,7 +36,7 @@ Page({
           console.log('request success!');
         },
         fail: function(res) {
-          console.log('request fail!');
+          console.error('request fail!', res);
         },
         complete: function(res) {
           console.log('request complete!');
